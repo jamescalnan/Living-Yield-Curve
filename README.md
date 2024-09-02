@@ -1,2 +1,4 @@
 # Living-Yield-Curve
-Yield curve animation to show how accurate the prediction of future rates are
+An animated yield curve that visually demonstrates the accuracy of future rate predictions.
+
+Inspired by this video from Jim Laird at [Laird Research](https://lairdresearch.com/?p=119).
